@@ -1,0 +1,45 @@
+id: finance
+name: Cost Management Ecosystem
+type: department
+status: active
+mission: >-
+  bonsai全体の収入・支出・原価・予算・見積・仕入・AI利用料を統合し、
+  商品・案件・repository単位でコストと利益を可視化する。
+
+core_systems:
+  - hamachi
+  - shizuka
+  - oem
+
+responsibilities:
+  - cost_management
+  - procurement
+  - quotation
+  - budgeting
+  - forecasting
+  - expense_management
+  - revenue_management
+  - margin_analysis
+  - roi_analysis
+  - ai_cost_management
+
+accounting_objects:
+  - revenue
+  - expense
+  - cogs
+  - ai_cost
+  - procurement_cost
+  - outsourcing_cost
+  - logistics_cost
+  - gross_profit
+  - operating_profit
+  - budget
+  - cashflow
+
+interfaces:
+  hamachi: cost_and_quote_engine
+  shizuka: ai_model_cost_and_usage
+  oem: supplier_and_manufacturing_cost
+
+principle: >-
+  帳簿を記録するだけの経理ではなく、意思決定可能なCost/ROI Operating Systemとして機能する。
