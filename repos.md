@@ -9,6 +9,13 @@
 - [genai-agentos](https://github.com/bonsai/genai-agentos) — Agent OS / AI基盤
 - [github-observatory](https://github.com/bonsai/github-observatory) — GitHub全体の観測・分析
 
+## 経理・Cost Management Ecosystem
+
+- [hamachi](https://github.com/bonsai/hamachi) — Cost / Quote / Forecast Engine
+- [shizuka](https://github.com/bonsai/shizuka) — AI Model Cost / Usage Manager
+- [oem](https://github.com/bonsai/oem) — Supplier / Manufacturing Cost Registry
+- [socks](https://github.com/bonsai/socks) — Product domain; manufacturing cost use case
+
 ## データ・AI
 
 - [ds-agent](https://github.com/bonsai/ds-agent) — BQMLベースのデータ分析エージェント
